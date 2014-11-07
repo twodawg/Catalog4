@@ -1,0 +1,8 @@
+﻿products = new List<Product>()
+            {
+                {new Product(0,"Widget",10,2.50m,"Normal everyday widget")},
+                {new Product(1,"SuperWidget",20,12.99m,"A better widget")},
+                {new Product(2,"MegaWidget",25,79.99m,"Mega super better widget")},
+                {new Product(3,"iWidget",18,101.99m,"An Apple widget with twice the goodness")},
+                {new Product(4,"WidgetKitchen",4,10.98m,"Get the kitchen widget now")},
+            };
